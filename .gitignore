@@ -1,0 +1,6 @@
+/venv/
+/.pytest_cache/
+gdisc_check_2.py
+gdisk_check.py
+.idea/
+__pycache__/
